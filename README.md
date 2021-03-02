@@ -1,4 +1,4 @@
-# my-personal-profile-page
+# My Personal Profile Page
 ## A personal profile page.
 You'll modify the code for a basic web page by adding graphics, custom text, and a stylish design. This is a great way for you to practice HTML and CSS skills. It also gives you a web page you can use as a personal online calling card to advertise your experience, skills, and goals, and to provide links to your social media accounts on Twitter, LinkedIn and GitHub.
 
